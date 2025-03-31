@@ -16,7 +16,7 @@ void PrintBaseBallPlayers(PBaseBallPlayer players, int length)
 
 PBaseBallPlayer FindHighestAvg(PBaseBallPlayer players, int length)
 {
-    PBaseBallPlayer player={0};
+    PBaseBallPlayer player=NULL;
 
     return player;
 }
