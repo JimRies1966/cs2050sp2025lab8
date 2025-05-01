@@ -1,5 +1,5 @@
 /* Don't forget to put a nice comment header here */
-
+/* */
 #include <stdio.h>
 #include <stdlib.h>
 #include "lab8.h"
